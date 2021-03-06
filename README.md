@@ -1,0 +1,2 @@
+# personalwebsitepractise
+html coding practices
